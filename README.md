@@ -3,6 +3,9 @@
 Software Engineer | Backend & Distributed Systems  
 MS Computer Science – University at Buffalo  
 
+📫 **Email:** rajvirsinghfeb16@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/rajvir13  
+🌐 **Portfolio:** https://rajvir1602.github.io  
 ---
 
 ## About Me
@@ -65,7 +68,3 @@ LangChain • LangGraph • PySpark ML • Keras
 - System Design at Scale  
 
 ---
-
-📫 **Contact:** rajvirsinghfeb16@gmail.com  
-🔗 Portfolio: https://rajvir1602.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/rajvir13  
