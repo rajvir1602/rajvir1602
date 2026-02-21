@@ -7,14 +7,13 @@ MS Computer Science – University at Buffalo
 
 ## About Me
 
-Backend-focused engineer with 2+ years of production experience building scalable services, distributed systems, and full-stack applications.  
-Experienced in Java-based microservices, Spark data pipelines, CI/CD automation, and observability tooling.
+## About Me
 
-Currently interested in:
-- Distributed data systems
-- High-performance backend design
-- Infrastructure & reliability engineering
-- ML-powered data pipelines
+Backend-focused software engineer with 2+ years of production experience building scalable microservices, distributed systems, and full-stack applications.
+
+At Fastr and Cvent, I engineered Java/Clojure-based services serving 50k+ users, improved analytics performance by 35%, reduced production outages by 40%, and automated CI/CD pipelines to accelerate release cycles.
+
+Currently focused on distributed data systems, high-performance backend design, and scalable infrastructure.
 
 ---
 
