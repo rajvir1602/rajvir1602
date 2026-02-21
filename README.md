@@ -10,8 +10,6 @@ MS Computer Science – University at Buffalo
 
 ## About Me
 
-## About Me
-
 Backend-focused software engineer with 2+ years of production experience building scalable microservices, distributed systems, and full-stack applications.
 
 At Fastr and Cvent, I engineered Java/Clojure-based services serving 50k+ users, improved analytics performance by 35%, reduced production outages by 40%, and automated CI/CD pipelines to accelerate release cycles.
